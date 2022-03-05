@@ -15,3 +15,6 @@ nim c -d:ssl cmtextract.nim
 # Screenshot
 
 ![image](https://raw.githubusercontent.com/d0rksh/cmtextract/main/screen.png)
+
+# Have a good regex?
+   please create a issue with your regex
