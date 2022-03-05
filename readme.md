@@ -1,4 +1,4 @@
-# CmtExtract
+# cmtExtract
 Simple javascript comment extract tool (just in 20+ lines)
 
 # Example
