@@ -14,4 +14,4 @@ nim c -d:ssl cmtextract.nim
 
 # Screenshot
 
-![alt text](https://raw.githubusercontent.com/d0rksh/cmtextract/main/tool_screen.png)
+![image](https://raw.githubusercontent.com/d0rksh/cmtextract/main/screen.png)
