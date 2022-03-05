@@ -26,6 +26,7 @@ for l in split(input,"\n"):
            echo "--------------------------"
            echo match
            echo "--------------------------"
+        client.close()   
     except:
            continue
 
